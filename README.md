@@ -1,4 +1,4 @@
-# UCMap-for-OpenGIS-Examples
+# UCMap OpenGL 版示例程序
 - demo1000的数据是在线的天地图，不需要额外的文件，但需要联网。这个demo演示了，天地图数据的普通地图模式和卫星地图模式，添加临时的点线面，添加geojson图层，添加若干个自定义点，模拟若干个自定义的运动，定位自己等功能。
 
 - demo1001的数据是geoserver，您需要搭建并运行geoserver，并修改demo1001中的ip地址，默认的ip地址是192.168.1.3。这个demo演示了基于WFS协议的空间查询和属性查询。
