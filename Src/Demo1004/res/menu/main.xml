@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.demo1001.MainActivity" >
+
+    <item
+        android:id="@+id/menu_1"
+        android:orderInCategory="100"
+        android:title="新建SHP并打开"/>
+    <item
+        android:id="@+id/menu_2"
+        android:orderInCategory="100"
+        android:title="添加要素"/>
+<item
+        android:id="@+id/menu_3"
+        android:orderInCategory="100"
+        android:title="修改要素"/>
+<item
+        android:id="@+id/menu_4"
+        android:orderInCategory="100"
+        android:title="修改要素属性"/>
+<item
+        android:id="@+id/menu_5"
+        android:orderInCategory="100"
+        android:title="删除要素"/>
+<item
+        android:id="@+id/menu_6"
+        android:orderInCategory="100"
+        android:title="保存SHP"/>
+</menu>
